@@ -1,6 +1,6 @@
 # Deep Learning with Python
 
-A collection of deep learning projects implemented in Python using popular deep learning frameworks.
+A collection of deep learning projects implemented in Python using popular frameworks and libraries.
 
 ## Technologies
 
@@ -10,23 +10,15 @@ A collection of deep learning projects implemented in Python using popular deep 
 - NumPy
 - Pandas
 - Matplotlib
+- Scikit-learn
 
 ## Projects
 
-Projects will be added as they are completed.
-
-## Repository Structure
-
-```
-deep-learning-python/
-├── project-1/
-├── project-2/
-└── README.md
-```
+- [Breast Cancer Classification Using ANN](breast-cancer-classification/README.md)
 
 ## Purpose
 
-This repository contains my deep learning projects developed for learning, experimentation, and real-world applications.
+This repository contains practical implementations and experiments to develop a better understanding of deep learning concepts and techniques.
 
 ## License
 
