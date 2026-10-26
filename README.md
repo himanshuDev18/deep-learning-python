@@ -16,6 +16,8 @@ A collection of deep learning projects implemented in Python using popular frame
 
 - [Breast Cancer Classification Using ANN](breast-cancer-classification/README.md)
 
+- [MNIST Handwritten Digit Classification](mnist-digit-classification/README.md)
+
 ## Purpose
 
 This repository contains practical implementations and experiments to develop a better understanding of deep learning concepts and techniques.
